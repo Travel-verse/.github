@@ -14,11 +14,17 @@ We design projects that prioritize **clarity, portability, determinism, and real
 
 ## Table of Contents:
 
-[![What we do](https://img.shields.io/badge/What%20we%20do-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-what-we-do)
+[![What we do](https://img.shields.io/badge/🚀%20What%20We%20Do-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-what-we-do)
 
-[![Flagship-Project](https://img.shields.io/badge/Flagship%20project-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-flagship-project)
+[![Flagship-Project](https://img.shields.io/badge/🧭%20Flagship%20Project-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-flagship-project)
 
-[![Philosophy](https://img.shields.io/badge/Philosophy-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-philosophy)
+[![Philosophy](https://img.shields.io/badge/🏗️%20Philosophy-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#%EF%B8%8F-philosophy)
+
+[![Contributing](https://img.shields.io/badge/🤝%20Contributing-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-contributing)
+
+[![Licensing](https://img.shields.io/badge/📜%20Licensing-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-licensing)
+
+[![The Bigger Picture](https://img.shields.io/badge/🌌%20The&20Bigger%20Picture-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-the-bigger-picture)
 
 ## 🚀 What We Do
 
