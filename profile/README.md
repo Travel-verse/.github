@@ -24,7 +24,7 @@ We design projects that prioritize **clarity, portability, determinism, and real
 
 [![Licensing](https://img.shields.io/badge/📜%20Licensing-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-licensing)
 
-[![The Bigger Picture](https://img.shields.io/badge/🌌%20The&20Bigger%20Picture-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-the-bigger-picture)
+[![The Bigger Picture](https://img.shields.io/badge/🌌%20The%20Bigger%20Picture-1F1F1F?style=for-the-badge)](https://github.com/Travel-verse#-the-bigger-picture)
 
 ## 🚀 What We Do
 
