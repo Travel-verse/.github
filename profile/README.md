@@ -14,7 +14,8 @@ We design projects that prioritize **clarity, portability, determinism, and real
 
 ## Table of Contents:
 
-[![GitHub stars](https://img.shields.io/badge/What%20we%20do-1F1F1F)](https://github.com/Rishy-dek/Travel-Genie)
+[![What we do](https://img.shields.io/badge/What%20we%20do-1F1F1F)](https://github.com/Travel-verse#-what-we-do)
+[![What we do](https://img.shields.io/badge/Flagship%20project-1F1F1F)](https://github.com/Travel-verse#-flagship-project)
 
 ## 🚀 What We Do
 
