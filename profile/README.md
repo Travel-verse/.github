@@ -14,7 +14,7 @@ We design projects that prioritize **clarity, portability, determinism, and real
 
 ## Table of Contents:
 
-[![What we do](https://github.com/Rishy-dek/Travel-Genie)]
+[![GitHub stars](https://img.shields.io/github/stars/Rishy-dek/Travel-Genie?style=for-the-badge&logo=github)](https://github.com/Rishy-dek/Travel-Genie)
 
 ## 🚀 What We Do
 
