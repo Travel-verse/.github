@@ -12,6 +12,10 @@ We design projects that prioritize **clarity, portability, determinism, and real
 
 ---
 
+## Table of Contents:
+
+![Wh]
+
 ## 🚀 What We Do
 
 Travel-verse creates and maintains projects that explore:
